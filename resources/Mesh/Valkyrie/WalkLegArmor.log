@@ -1,0 +1,21 @@
+######################BEGIN######################
+Exporting UV texture coordinates for SilveralLegs
+Exporting SilveralLegs
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 33
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 1956
+Offset Surfaces: 1956
+Offset end: 89044
+Total Shaders: 1
+Total Triangles: 352
+Total Vertices: 304
+MD3 saved to /home/paqx/Rendu/cpp_indie_studio/resources/Mesh/Valkyrie/WalkLegArmor.md3
+Elapsed 0.76858 seconds

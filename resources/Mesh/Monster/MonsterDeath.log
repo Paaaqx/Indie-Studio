@@ -1,0 +1,22 @@
+######################BEGIN######################
+Exporting UV texture coordinates for DrawCall_0006
+Exporting DrawCall_0006
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 122
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 6940
+Offset Surfaces: 6940
+Offset end: 8659932
+!Warning: Vertex limit (8635/8192) reached for surface DrawCall_0006
+Total Shaders: 1
+Total Triangles: 12998
+Total Vertices: 8635
+MD3 saved to /home/paqx/Rendu/cpp_indie_studio/resources/MonsterAnim/MonsterDeath.md3
+Elapsed 27.7794 seconds

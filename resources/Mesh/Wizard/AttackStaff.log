@@ -1,0 +1,22 @@
+######################BEGIN######################
+Converted quads in UV map of mesh01.002 to tris.
+Exporting UV texture coordinates for mesh01.002
+Exporting mesh01.002
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 21
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 1284
+Offset Surfaces: 1284
+Offset end: 37428
+Total Shaders: 1
+Total Triangles: 240
+Total Vertices: 188
+MD3 saved to /home/paqx/Rendu/cpp_indie_studio/resources/WizardAnim/WizardStaffAttack.md3
+Elapsed 0.15494 seconds

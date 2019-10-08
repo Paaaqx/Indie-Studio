@@ -1,0 +1,22 @@
+######################BEGIN######################
+Converted quads in UV map of Cube.000 to tris.
+Exporting UV texture coordinates for Cube.000
+Exporting Cube.000
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 250
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 14108
+Offset Surfaces: 14108
+Offset end: 1412428
+Total Shaders: 1
+Total Triangles: 1052
+Total Vertices: 690
+MD3 saved to /home/marti7/rendu/c++/cpp_indie_studio/resources/Intro/Silver_fist.md3
+Elapsed 4.68898 seconds
